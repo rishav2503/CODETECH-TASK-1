@@ -12,15 +12,14 @@
 
 # OVERVIEW OF THE PROJECT
 
-PROJECT: Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin. The program should allow the user to input a temperature in one scale and output the converted
-         temperature in another scale.
+PROJECT: Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin. The program should allow the user to input a temperature in one scale and output the converted temperature in another scale.
 
 
 ## Temperature Conversion Program
 
 This is a simple C++ program that converts temperatures between Celsius, Fahrenheit, and Kelvin. The user can input a temperature in one scale and get the converted temperature in another scale.
 
-KEY ACTIVITIES
+## KEY ACTIVITIES
          - Converts temperatures from Celsius to Fahrenheit and Kelvin.
          - Converts temperatures from Fahrenheit to Celsius and Kelvin.
          - Converts temperatures from Kelvin to Celsius and Fahrenheit.
