@@ -1,17 +1,17 @@
-Name: RISHAV ROY
-Company: CODTECH IT SOLUTIONS
-ID: CT6WDS298
-Domain: C++ PROGRAMMING
-Duration: 10TH JUNE TO 22ND JULY 2024
-Mentor: SRAVANI GOUNI
+**Name:** RISHAV ROY
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT6WDS298
+**Domain:** C++ PROGRAMMING
+**Duration:** 10TH JUNE TO 22ND JULY 2024
+**Mentor:** SRAVANI GOUNI
 
-OVERVIEW OF THE PROJECT
+# OVERVIEW OF THE PROJECT
 
 PROJECT: Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin. The program should allow the user to input a temperature in one scale and output the converted
          temperature in another scale.
 
 
-# Temperature Conversion Program
+## Temperature Conversion Program
 
 This is a simple C++ program that converts temperatures between Celsius, Fahrenheit, and Kelvin. The user can input a temperature in one scale and get the converted temperature in another scale.
 
@@ -27,11 +27,11 @@ KEY ACTIVITIES
          - A C++ compiler (e.g., g++)
 
 
-PLATFORM USED FOR CODING
+## PLATFORM USED FOR CODING
           -VISUAL STDIO CODE
 
 
-OUTPUT PROCEDURE
+## OUTPUT PROCEDURE
           Steps
           1. Enter the temperature: The program will prompt you to enter the temperature you want to convert.
           2. Select the input scale: The program will ask you to choose the scale of the input temperature:
