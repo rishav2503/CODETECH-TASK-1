@@ -1,8 +1,13 @@
 **Name:** RISHAV ROY
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT6WDS298
+
 **Domain:** C++ PROGRAMMING
+
 **Duration:** 10TH JUNE TO 22ND JULY 2024
+
 **Mentor:** SRAVANI GOUNI
 
 # OVERVIEW OF THE PROJECT
