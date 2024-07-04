@@ -13,8 +13,8 @@
 # OVERVIEW OF THE PROJECT
 
 ## PROJECT
-           Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin. The program should allow the user to input a temperature in one scale 
-           and output the converted temperature in another scale.
+Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin. The program should allow the user to input a temperature in one scale 
+and output the converted temperature in another scale.
 
 
 ## Temperature Conversion Program
